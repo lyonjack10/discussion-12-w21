@@ -35,4 +35,4 @@ def viz(data):
 # data = grab_data("https://en.wikipedia.org/wiki/Grand_Slam_(tennis)")
 # database(data)
 # viz(data)
-# plotly(data)
+
